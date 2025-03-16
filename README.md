@@ -12,6 +12,7 @@
 
 <img align="left" height="150" src="https://media3.giphy.com/media/tlGD7PDy1w8fK/giphy.gif"  />
 
+
 ###
 
 <div align="left">
@@ -74,7 +75,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/HarshithaShetty27/HarshithaShetty27/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshithaShetty27/HarshithaShetty27/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshithaShetty27/HarshithaShetty27/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/HarshithaShetty27/HarshithaShetty27/output/github-snake.svg" />
+</picture>
 
 ###
 
@@ -82,8 +87,3 @@
 </div>
 
 ###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshithaShetty27/HarshithaShetty27/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshithaShetty27/HarshithaShetty27/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/HarshithaShetty27/HarshithaShetty27/output/github-snake.svg" />
-</picture>
